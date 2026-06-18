@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.zip
+*.png
+*.flac
+*.wav
+*.npz
+runs/
+eval_runs/
+scores/
+tmp/
+.DS_Store

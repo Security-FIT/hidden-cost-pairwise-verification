@@ -1,0 +1,15 @@
+tensorboard
+pandas
+matplotlib
+scikit-learn
+tqdm
+audiomentations
+soundfile
+safe-gpu
+confidence-intervals @ git+https://github.com/luferrer/ConfidenceIntervals.git
+huggingface_hub
+datasets
+cffi
+idna
+pyyaml
+requests

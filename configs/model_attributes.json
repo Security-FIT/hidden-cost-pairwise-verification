@@ -1,0 +1,412 @@
+{
+  "Mars5": {
+    "architecture": "Mars5",
+    "model_family": "Mars",
+    "model_type": "hybrid_transformer-diffusion"
+  },
+  "MatchaTTS": {
+    "architecture": "MatchaTTS",
+    "model_family": "MatchaTTS",
+    "model_type": "flow_matching"
+  },
+  "MeloTTS": {
+    "architecture": "MeloTTS",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "Metavoice-1B": {
+    "architecture": "Metavoice-1B",
+    "model_family": "metavoice",
+    "model_type": "hybrid_transformer-diffusion"
+  },
+  "OpenVoiceV2": {
+    "architecture": "OpenVoiceV2",
+    "model_family": "openvoice",
+    "model_type": "flow_based"
+  },
+  "WhisperSpeech": {
+    "architecture": "WhisperSpeech",
+    "model_family": "WhisperSpeech",
+    "model_type": "token_based_nar"
+  },
+  "e2-tts": {
+    "architecture": "e2-tts",
+    "model_family": "e2-tts",
+    "model_type": "flow_matching"
+  },
+  "f5-tts": {
+    "architecture": "f5-tts",
+    "model_family": "f5-tts",
+    "model_type": "flow_matching"
+  },
+  "facebook/mms-tts-deu": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-eng": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-fin": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-fra": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-hun": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-nld": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-ron": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-rus": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-swe": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "facebook/mms-tts-ukr": {
+    "architecture": "facebook/mms-tts",
+    "model_family": "mms",
+    "model_type": "flow_based"
+  },
+  "griffin_lim": {
+    "architecture": "griffin_lim",
+    "model_family": "signal_processing",
+    "model_type": "phase_reconstruction"
+  },
+  "microsoft/speecht5_tts": {
+    "architecture": "microsoft/speecht5_tts",
+    "model_family": "speecht5",
+    "model_type": "autoregressive_transformer"
+  },
+  "optispeech": {
+    "architecture": "optispeech",
+    "model_family": "fastspeech",
+    "model_type": "non_autoregressive_transformer"
+  },
+  "parler_tts_large_v1": {
+    "architecture": "parler_tts_large_v1",
+    "model_family": "parler-tts",
+    "model_type": "autoregressive_transformer"
+  },
+  "parler_tts_mini_v0.1": {
+    "architecture": "parler_tts_mini_v0.1",
+    "model_family": "parler-tts",
+    "model_type": "autoregressive_transformer"
+  },
+  "parler_tts_mini_v1": {
+    "architecture": "parler_tts_mini_v1",
+    "model_family": "parler-tts",
+    "model_type": "autoregressive_transformer"
+  },
+  "suno/bark": {
+    "architecture": "suno/bark",
+    "model_family": "bark",
+    "model_type": "autoregressive_transformer"
+  },
+  "suno/bark-small": {
+    "architecture": "suno/bark-small",
+    "model_family": "bark",
+    "model_type": "autoregressive_transformer"
+  },
+  "tts_models/bg/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/bn/custom/vits-female": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/bn/custom/vits-male": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/cs/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/da/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/de/css10/vits-neon": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/de/thorsten/tacotron2-DCA": {
+    "architecture": "tacotron2-DCA",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/de/thorsten/tacotron2-DDC": {
+    "architecture": "tacotron2-DDC",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/de/thorsten/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/el/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/en/blizzard2013/capacitron-t2-c50": {
+    "architecture": "capacitron-t2-c50",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/en/ek1/tacotron2": {
+    "architecture": "tacotron2",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/en/jenny/jenny": {
+    "architecture": "jenny",
+    "model_family": "parler_tts",
+    "model_type": "autoregressive_slm"
+  },
+  "tts_models/en/ljspeech/fast_pitch": {
+    "architecture": "fast_pitch",
+    "model_family": "fastspeech",
+    "model_type": "non_autoregressive_transformer"
+  },
+  "tts_models/en/ljspeech/glow-tts": {
+    "architecture": "glow-tts",
+    "model_family": "glow",
+    "model_type": "flow_based"
+  },
+  "tts_models/en/ljspeech/neural_hmm": {
+    "architecture": "neural_hmm",
+    "model_family": "hmm",
+    "model_type": "autoregressive_hmm"
+  },
+  "tts_models/en/ljspeech/overflow": {
+    "architecture": "overflow",
+    "model_family": "overflow",
+    "model_type": "hybrid_ar-flow"
+  },
+  "tts_models/en/ljspeech/speedy-speech": {
+    "architecture": "speedy-speech",
+    "model_family": "speedyspeech",
+    "model_type": "non_autoregressive_cnn"
+  },
+  "tts_models/en/ljspeech/tacotron2-DCA": {
+    "architecture": "tacotron2-DCA",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/en/ljspeech/tacotron2-DDC": {
+    "architecture": "tacotron2-DDC",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/en/ljspeech/tacotron2-DDC_ph": {
+    "architecture": "tacotron2-DDC_ph",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/en/ljspeech/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/en/ljspeech/vits--neon": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/en/multi-dataset/tortoise-v2": {
+    "architecture": "tortoise-v2",
+    "model_family": "tortoise",
+    "model_type": "hybrid_transformer-diffusion"
+  },
+  "tts_models/en/sam/tacotron-DDC": {
+    "architecture": "tacotron-DDC",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/es/css10/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/es/mai/tacotron2-DDC": {
+    "architecture": "tacotron2-DDC",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/et/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/fa/custom/glow-tts": {
+    "architecture": "glow-tts",
+    "model_family": "glow",
+    "model_type": "flow_based"
+  },
+  "tts_models/fi/css10/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/fr/css10/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/fr/mai/tacotron2-DDC": {
+    "architecture": "tacotron2-DDC",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "tts_models/ga/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/hr/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/hu/css10/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/it/mai_female/glow-tts": {
+    "architecture": "glow-tts",
+    "model_family": "glow",
+    "model_type": "flow_based"
+  },
+  "tts_models/it/mai_female/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/it/mai_male/glow-tts": {
+    "architecture": "glow-tts",
+    "model_family": "glow",
+    "model_type": "flow_based"
+  },
+  "tts_models/it/mai_male/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/lt/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/lv/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/mt/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/multilingual/multi-dataset/bark": {
+    "architecture": "bark",
+    "model_family": "bark",
+    "model_type": "autoregressive_transformer"
+  },
+  "tts_models/multilingual/multi-dataset/xtts_v1.1": {
+    "architecture": "xtts_v1.1",
+    "model_family": "xtts",
+    "model_type": "hybrid_ar-vocoder"
+  },
+  "tts_models/multilingual/multi-dataset/xtts_v2": {
+    "architecture": "xtts_v2",
+    "model_family": "xtts",
+    "model_type": "hybrid_ar-vocoder"
+  },
+  "tts_models/pl/mai_female/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/pt/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/ro/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/sk/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/sl/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/sv/cv/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/tr/common-voice/glow-tts": {
+    "architecture": "glow-tts",
+    "model_family": "glow",
+    "model_type": "flow_based"
+  },
+  "tts_models/uk/mai/glow-tts": {
+    "architecture": "glow-tts",
+    "model_family": "glow",
+    "model_type": "flow_based"
+  },
+  "tts_models/uk/mai/vits": {
+    "architecture": "vits",
+    "model_family": "vits",
+    "model_type": "flow_based"
+  },
+  "tts_models/zh-CN/baker/tacotron2-DDC-GST": {
+    "architecture": "tacotron2-DDC-GST",
+    "model_family": "tacotron",
+    "model_type": "autoregressive_seq2seq"
+  },
+  "vixTTS": {
+    "architecture": "vixTTS",
+    "model_family": "xtts",
+    "model_type": "hybrid_ar-vocoder"
+  }
+}
